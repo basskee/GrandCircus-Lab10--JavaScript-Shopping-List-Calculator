@@ -1,0 +1,67 @@
+
+
+ p{
+	font-size: 1em;
+	color: red;
+}
+body{
+	text-align: center;
+}
+
+
+#wrapper{
+
+	width: 20%;
+	text-align: center;
+	margin: 2em auto .5em auto;
+}
+
+
+#namelist{
+	/*float:left;*/
+	overflow: hidden;
+	background-color: lightgrey;
+	border:thin #111 solid;
+	display: inline-block;
+	margin: 1em 1em 5em 5em;
+	padding: 5em 5em 5em 5em;
+	width: 40px;
+
+}
+
+#namelist p{
+	font-size: 2em;
+}
+
+#pricelist{
+/*	float:left;*/
+	width:15px;
+	overflow: hidden;
+	background-color: lightgrey;
+	border:thin #111 solid;
+	display: inline-block;
+	margin: 1em 5em 5em 1em;
+	padding: 5em 5em 5em 5em;
+
+}
+
+.input-a{
+	margin: 10px 5px;
+}
+
+
+
+
+#namelist p{
+	
+
+}
+
+#pricetotal{
+	border:black solid thin;
+	display:inline-block;
+	padding: 10px;
+	margin: 10px;
+
+}
+
